@@ -13,7 +13,7 @@
         "src.app:app",
         "--reload",
         "--reload-include",
-        "src/static/*"
+        "src/static"
       ],
       "jinja": true
     }
